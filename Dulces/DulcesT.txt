@@ -1,0 +1,17 @@
+2060      /Sonrics        /Mandarina      /Chicloso         /20 grs.        
+5920      /La-Giralda     /Tutifruti      /Caramelo-masizo  /20 grs.        
+1749      /Lillopon       /Frambuesa      /Dulce-suave      /20 grs.        
+760       /Ricolino       /Uva            /Chicloso         /50 grs.        
+5183      /Sonrics        /Coco           /Dulce-suave      /50 grs.        
+8817      /La-Rosa        /Mandarina      /Paleta           /40 grs.        
+1200      /Vero           /Melon          /Dulce-suave      /20 grs.        
+4519      /Sonrics        /Uva            /Caramelo-masizo  /30 grs.        
+3574      /La-Corona      /Sandia         /Caramelo-masizo  /20 grs.        
+1115      /Coronado       /Mango          /Dulce-suave      /50 grs.        
+3015      /La-Rosa        /Naranja        /Paleta           /40 grs.        
+9876      /Ricolino       /Crereza        /Paleta           /20 grs.        
+1002      /Lillopon       /Uva            /Caramelo-masizo  /40 grs.        
+2247      /Miguelito      /Mango          /Paleta           /30 grs.        
+1817      /Ricolino       /Melon          /Caramelo-masizo  /30 grs.        
+8554      /La-Giralda     /Chocolate      /Dulce-suave      /20 grs.        
+7490      /La-Rosa        /Frambuesa      /Caramelo-masizo  /30 grs.        
